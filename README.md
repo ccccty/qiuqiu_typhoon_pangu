@@ -39,8 +39,8 @@ pip install numpy onnx onnxruntime cdsapi netCDF4 xarray
 ```
 
 此外，您需要一个有效的 `cdsapi` 密钥。请在您的主目录下创建 `.cdsapirc` 文件，并填入您的 UID 和 API Key。
-url: https://cds.climate.copernicus.eu/api
-key: dd996bff-8b8b-496c-aa47-21d3109be062
+url: xxx
+key: xxx
 
 
 ## 完整执行流程
