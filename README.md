@@ -1,0 +1,2 @@
+# qiuqiu_typhoon_pangu
+调用盘古气象大模型进行台风路径预测
