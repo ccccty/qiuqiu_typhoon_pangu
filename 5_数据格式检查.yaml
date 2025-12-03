@@ -1,0 +1,2 @@
+python -c "import xarray as xr; ds = xr.open_dataset('/mnt/cty/qiu/Pangu-Weather-ReadyToGo/forecasts/1997-08-16-02-00/upper.nc'); print(
+ds)"

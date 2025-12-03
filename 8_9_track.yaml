@@ -1,0 +1,15 @@
+# Configuration for Typhoon Tracking and Verification
+
+# Input NetCDF file path
+input_file: "/mnt/cty/qiu/Pangu-Weather-ReadyToGo/Latitude and longitude/2018-10-01-06-00to_v22018-10-06-06-00/10N50N_90E_160E/combined_surface_10N50N_90E_160E.nc"
+
+# Initial typhoon position
+start_lat: 17.0
+start_lon: 134.0
+
+# Tracking parameters
+search_radius_deg: 3.0  # Radius in degrees to search for min pressure center
+
+# Output settings
+# Base directory for saving results (CSV, Plots)
+output_base_dir: "/mnt/cty/qiu/Pangu-Weather-ReadyToGo/figure_csv/test"
